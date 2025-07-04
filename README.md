@@ -1,6 +1,9 @@
 # Personal Task Tracker
 ## 📖 Description
-[Brief description of your app]
+- Task manager where you can add, update and delete tasks.
+- Here you can sort the task which are completed are which are not.
+- Clean UI
+- User friendly
 ## 🚀 Features
 - [List key features you implemented]
 ## 🛠 Setup Instructions
